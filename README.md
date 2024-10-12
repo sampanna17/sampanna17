@@ -44,6 +44,9 @@ I am a 20-year-old IT student with a passion for **software engineering** and **
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 📊 GitHub Stats:
+
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=sampanna17&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sampanna17&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sampanna17&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -54,4 +57,5 @@ I am a 20-year-old IT student with a passion for **software engineering** and **
 ---
 [![](https://visitcount.itsvg.in/api?id=sampanna17&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+

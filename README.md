@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://github.com/sampanna17/sampanna17/blob/main/banner.gif" width="100%" alt="Banner" />
+</p>
+
 # Hi there, I'm Sampanna Piya 👋
 
 🎓 IT Student | 💻 Aspiring Full-Stack Developer | 🚀 Building Innovative Solutions
